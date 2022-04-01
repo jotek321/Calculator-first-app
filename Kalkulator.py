@@ -12,18 +12,13 @@ fun = int(input('funkcje \n'
 
 if fun == 1:
     print(num1 + num2)
-    time.sleep(10)
 elif fun == 2:
     print(num1 - num2)
-    time.sleep(10)
 elif fun == 3:
     print(num1 * num2)
-    time.sleep(10)
 elif fun == 4:
     print(num1 / num2)
-    time.sleep(10)
 else:
     print('ERROR')
-    time.sleep(10)
 
-
+time.sleep(10)
