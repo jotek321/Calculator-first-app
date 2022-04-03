@@ -1,5 +1,5 @@
 while True:
-    print('To jest kalkulator\nUżycie liczby zcrashuje calculatorn\n\n')
+    print('It is a calculator\nIf you use a character i will crash\n\n')
     num1 = float(input('liczba x równa się: \n'))
     num2 = float(input('liczba y równa się: \n'))
     fun = int(input('funkcje \n'
